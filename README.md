@@ -1,5 +1,5 @@
 # ccpe2025-richardson
-This repository contains the software and data necessary to replicated every number, table and figure printed in the manuscript: "How accurate is Richardson's error estimate" which has been submitted to the journal CCPE. The manuscript is an extended version of a paper that has previously been accepted by PPAM 2024. The authors are Carl Chrisian Kjelgaard Mikkelsen from Umeå University, Sweden and Lorién López-Villellas from University of Zaragoza, Spain.
+This repository contains the software and data necessary to replicated every number, table and figure printed in the manuscript: "How accurate is Richardson's error estimate" which has been submitted to the journal CCPE. The manuscript is an extended version of a paper entitled "The need for accuracy and smoothness in numerical simulations" that has been accepted by PPAM 2024. The authors are Carl Chrisian Kjelgaard Mikkelsen from Umeå University, Sweden and Lorién López-Villellas from University of Zaragoza, Spain.
 
 The reader who wishes to replicate the experiments or examine the output in greater detail should clone the repository.
 
