@@ -5,12 +5,12 @@ The reader who wishes to replicate the experiments or examine the output in grea
 
 The structure of the repository is as follows
 
-.
-├── exp
-├── gromacs
-├── LICENSE
-├── matlab
-└── README.md
+.</br>
+├── exp</br>
+├── gromacs</br>
+├── LICENSE</br>
+├── matlab</br>
+└── README.md</br>
 
 If the reader does not wish to work with GROMACS, then this folder can be ignored as the output from GROMACS is included in the form of MATLAB. mat files.
 
